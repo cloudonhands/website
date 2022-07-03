@@ -68,4 +68,14 @@ a{
     font-size: 32px;
 }
 
+.collapse{
+    align-self: center;
+}
+
+.nav-link{
+    font-size: 18px;
+    margin: 12px;
+    color: var(--dark);
+    font-family: 'Poppins', sans-serif;
+}
 /* ------- .Navigation Menu ---------- */
