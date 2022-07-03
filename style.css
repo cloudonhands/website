@@ -94,4 +94,19 @@ a{
     padding-right: 12px;
     margin-right: 10px;
 }
+
+.toggle-button{
+    font-size: 21px;
+    background-color: transparent;
+    border: none;
+    position: absolute;
+    right: 0;
+    margin: 8px 10px;
+    display: none;
+}
+
+.toggle-button:focus{
+    outline: none;
+}
+
 /* ------- .Navigation Menu ---------- */
