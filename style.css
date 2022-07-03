@@ -110,3 +110,10 @@ a{
 }
 
 /* ------- .Navigation Menu ---------- */
+
+/* Media Query */
+
+@media (max-width : 574px){
+    .toggle-button{
+        display: initial;
+    }
