@@ -1,6 +1,7 @@
 body{
-background-image: url('image1.jgp');
+background-image: url('img1.jgp');
 background-repeat: no-repeat;
+background-position: center;
 backgrounf-attachment: fixed;
 background-size: cover;
 }
